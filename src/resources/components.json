@@ -1,0 +1,26 @@
+{
+    "button": {
+        "id": "1322",
+        "color": "primary",
+        "text": "this-is-the-first-header",
+        "description": "This is the news that will be displayed in the detail page"
+    },
+    "checkbox": {
+        "id": "133",
+        "checkedA": "Checkbox",
+        "color": "lets-try-something-catchy",
+        "description": "This is the news that will be displayed in the detail page"
+    },
+    "slider": {
+        "id": "134",
+        "defaultValue": "30",
+        "step": "10",
+        "min": "10",
+        "max": "110",
+        "description": "This is the news that will be displayed in the detail page, I will be passing this using props"
+    },
+    "switch": {
+        "id": "45454",
+        "text": "A switch"
+    }
+}
